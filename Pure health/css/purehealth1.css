@@ -1,0 +1,40 @@
+h1{
+    background-color: darkseagreen;
+    color:dodgerblue;
+    font-size: 150px;
+    text-align: center;
+    
+}
+/* .mousrover:hover{
+    background-color: rgb(255, 0, 0); */
+
+
+.write:focus{
+    
+    background-color: rgb(0, 253, 63);
+}
+label{
+    font-size: 40px;
+    margin-right: 10px;
+}
+input{
+    text-align: center;
+    text-align-last: left;
+    direction: ltr;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 40px;
+}
+.mouseover {
+    background-color: red; /* Set initial background color */
+    color: white; /* Set text color */
+    padding: 10px 20px;
+    transition: background-color 0.5s ease;
+}
+  
+.mouseover:hover {
+    background-color: green;
+    
+    /* background-size: 100%; */
+}
+
